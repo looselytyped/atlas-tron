@@ -16,7 +16,7 @@
 
 
 (defn init
-  "init will be called once when
+  "init will be called once
    app is deployed as a servlet on
    an app server such as Tomcat
    put any initialization code here"
